@@ -273,3 +273,4 @@ E:\Core Projects\ECommerceApp\ECommerceAp\bin\Debug\net6.0\runtimes\unix\lib\net
 E:\Core Projects\ECommerceApp\ECommerceAp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 E:\Core Projects\ECommerceApp\ECommerceAp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\Core Projects\ECommerceApp\ECommerceAp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Core Projects\ECommerceApp\ECommerceAp\obj\Debug\net6.0\ECommerceAp.sourcelink.json
